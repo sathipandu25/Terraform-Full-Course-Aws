@@ -3,12 +3,8 @@
 ### What to Do
 
 1. **Watch the Day 01 video** and take notes.
-2. **Write a short blog** (500-800 words) about what you learned.
-    - Include your own diagrams and code examples.
-    - Embed the video in your blog.
-3. **Share your blog** on LinkedIn and Twitter/X with `#30daysofawsterraform`.
-    - Tag **Piyush Sachdeva**.
-4. **Submit your work** (see `submission.md` for instructions) .
+2.  Try to create the VPC via Terraform.
+3. Once's it got success please try to destroy the VPC which you creared bt using terraform destroy command.
 
 ---
 
