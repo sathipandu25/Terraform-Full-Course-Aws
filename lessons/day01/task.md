@@ -2,13 +2,10 @@
 
 ## What to Do
 
-- [ ] Watch the Day 01 video and take notes
-- [ ] Write a short blog (500-800 words) about what you learned
-    - Include your own diagrams and code examples
-    - Embed the video
-- [ ] Share your blog on LinkedIn and Twitter/X with **#30daysofawsterraform**
-- [ ] Tag me (Piyush Sachdeva)
-- [ ] Submit your work (see `submission.md` for how)
+-  Watch the Day 01 video and take notes.
+-  Try to intall VS code,terraform and AWS CLI in your local.
+  
+
 
 ## Tips
 
